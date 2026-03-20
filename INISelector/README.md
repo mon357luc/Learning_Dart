@@ -1,1 +1,0 @@
-This is a extension to select INI properties :)
